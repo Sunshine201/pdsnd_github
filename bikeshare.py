@@ -225,7 +225,7 @@ def main():
         user_stats(df)
         display_data(df)
 
-
+        # Restart question where the user can decide to make more evaluations or leave the program.
         restart = input("\nWould you like to restart? Enter 'yes' to restart or any other input to terminate.\n")
         if restart.lower() != 'yes':
             print("You are leaving the program. Goodbye.\n")
