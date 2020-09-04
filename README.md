@@ -34,7 +34,13 @@ The project gives possibilities to learn more about the bike share use in those 
     * earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
 ### Files used
-Include the files used
+Include the files used:
+* bikeshare.py
+
+*Data Sources*
+* chicago.csv
+* new_york_city.csv
+* washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
