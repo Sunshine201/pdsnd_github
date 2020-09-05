@@ -3,8 +3,7 @@ Date this project and README file was created:
 09/03/2020
 
 ### Project Title
-**Bikeshare - Evaluation of bicycle sharing**
-
+**Bikeshare - Evaluation of Bikesharing in the US**
 ### Description
 Describe what your project is about and what it does:
 
